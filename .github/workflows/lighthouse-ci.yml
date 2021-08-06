@@ -1,4 +1,4 @@
-name: Lighhouse CI
+name: CI
 on: [push]
 jobs:
   lhci:
